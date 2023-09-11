@@ -1,0 +1,13 @@
+{
+  "steps": 5,
+  "buff-size": 10000,
+  "tolerate": {
+    "TDS": 5.0,
+    "light": 5,
+    "temperature": 1.5,
+    "humidity": 2.0,
+    "waterTemperature": 1.5
+  },
+  "calculation_error_detect": true,
+  "valid-period": "2h"
+}

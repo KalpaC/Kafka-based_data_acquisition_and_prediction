@@ -1,0 +1,8 @@
+{
+  "db-host": "192.168.33.1",
+  "db-port": "32336",
+  "db-username": "root",
+  "db-password": "dachuang0517",
+  "db-name": "fish_keeper",
+  "db-table": "exception"
+}

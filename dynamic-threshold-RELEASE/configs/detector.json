@@ -1,0 +1,18 @@
+{
+  "max_diff": {
+    "TDS": 5.0,
+    "light": 5,
+    "temperature": 0,
+    "humidity": 2.0,
+    "waterTemperature": 1.5
+  },
+  "max_threshold": {
+    "TDS": 30,
+    "light": 5,
+    "temperature": 36,
+    "humidity": 90,
+    "waterTemperature": 27
+  },
+  "valid-period": "1h"
+}
+

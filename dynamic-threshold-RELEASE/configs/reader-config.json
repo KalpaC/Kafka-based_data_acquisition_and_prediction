@@ -1,0 +1,5 @@
+{
+  "server": "192.168.46.134:9092",
+  "topic": "fish-keeper-washed",
+  "group-id": "release-5-18"
+}
